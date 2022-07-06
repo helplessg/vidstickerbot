@@ -27,8 +27,8 @@ ABOUT = "convert gifs and videos to video stickers developed by @robo_glitch"
 
 Repo = False
 
-STARKBOTS = False
+STARKBOTS = True
 
-CUSTOM_USERS_TABLE = False
+CUSTOM_USERS_TABLE = True
 
 # REMOVE_ADDONS = ["must_join"]
