@@ -29,6 +29,6 @@ Repo = False
 
 STARKBOTS = True
 
-CUSTOM_USERS_TABLE = True
+CUSTOM_USERS_TABLE = false 
 
 # REMOVE_ADDONS = ["must_join"]
