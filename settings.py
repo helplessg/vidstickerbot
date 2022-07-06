@@ -25,10 +25,10 @@ You will get your pack soon as you add a sticker. Send more gif/videos to add st
 
 ABOUT = "convert gifs and videos to video stickers developed by @robo_glitch"
 
-REPO = "@robo_glitch"
+try : "@robo_glitch"
 
-STARKBOTS = True
+STARKBOTS = False
 
-CUSTOM_USERS_TABLE = True
+CUSTOM_USERS_TABLE = False
 
 # REMOVE_ADDONS = ["must_join"]
